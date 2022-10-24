@@ -229,7 +229,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Code\" />
     <Folder Include="App_Data\" />
+    <Folder Include="Business\Dao\" />
+    <Folder Include="Business\Dto\" />
+    <Folder Include="Business\MotorReglas\" />
+    <Folder Include="ControlesUsuario\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
