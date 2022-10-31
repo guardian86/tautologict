@@ -5,10 +5,18 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>D:\REPOSITORIO_FUENTES\tautologict\publicacion</_PublishTargetUrl>
+    <History>True|2022-10-31T00:50:45.5129379Z;</History>
+    <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="about.aspx">
       <publishTime>10/23/2022 22:45:07</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>10/30/2022 19:50:42</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>10/30/2022 19:50:42</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>09/05/2018 16:10:50</publishTime>
@@ -161,10 +169,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 12:18:16</publishTime>
     </File>
     <File Include="bin/tautologict.dll">
-      <publishTime>10/23/2022 23:09:43</publishTime>
+      <publishTime>10/30/2022 19:50:34</publishTime>
     </File>
     <File Include="bin/tautologict.pdb">
-      <publishTime>10/23/2022 23:09:43</publishTime>
+      <publishTime>10/30/2022 19:50:34</publishTime>
     </File>
     <File Include="blog.aspx">
       <publishTime>10/23/2022 22:46:28</publishTime>
@@ -325,6 +333,9 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="lib/wow/wow.min.js">
       <publishTime>10/23/2022 22:13:34</publishTime>
     </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>10/30/2022 19:50:36</publishTime>
+    </File>
     <File Include="price.aspx">
       <publishTime>10/23/2022 22:50:31</publishTime>
     </File>
@@ -344,7 +355,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/23/2022 22:53:25</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/23/2022 23:09:44</publishTime>
+      <publishTime>10/30/2022 19:50:35</publishTime>
     </File>
   </ItemGroup>
 </Project>
