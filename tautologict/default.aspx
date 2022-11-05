@@ -20,8 +20,8 @@
                     </div>
                     <div class="modal-body d-flex align-items-center justify-content-center">
                         <div class="input-group" style="max-width: 600px;">
-                            <input type="text" class="form-control bg-transparent border-primary p-3" placeholder="Type search keyword">
-                            <button class="btn btn-primary px-4"><i class="bi bi-search"></i></button>
+                            <input type="text" class="form-control bg-transparent border-warning p-3" placeholder="Type search keyword">
+                            <button class="btn btn-warning px-4"><i class="bi bi-search"></i></button>
                         </div>
                     </div>
                 </div>
@@ -35,9 +35,9 @@
             <div class="container py-5 pt-lg-0">
                 <div class="row gx-0">
                     <div class="col-lg-4 wow zoomIn" data-wow-delay="0.1s">
-                        <div class="bg-primary shadow d-flex align-items-center justify-content-center p-4" style="height: 150px;">
+                        <div class="bg-warning shadow d-flex align-items-center justify-content-center p-4" style="height: 150px;">
                             <div class="bg-white d-flex align-items-center justify-content-center rounded mb-2" style="width: 60px; height: 60px;">
-                                <i class="fa fa-users text-primary"></i>
+                                <i class="fa fa-users text-warning"></i>
                             </div>
                             <div class="ps-4">
                                 <h5 class="text-white mb-0">Happy Clients</h5>
@@ -47,19 +47,19 @@
                     </div>
                     <div class="col-lg-4 wow zoomIn" data-wow-delay="0.3s">
                         <div class="bg-light shadow d-flex align-items-center justify-content-center p-4" style="height: 150px;">
-                            <div class="bg-primary d-flex align-items-center justify-content-center rounded mb-2" style="width: 60px; height: 60px;">
+                            <div class="bg-warning d-flex align-items-center justify-content-center rounded mb-2" style="width: 60px; height: 60px;">
                                 <i class="fa fa-check text-white"></i>
                             </div>
                             <div class="ps-4">
-                                <h5 class="text-primary mb-0">Projects Done</h5>
+                                <h5 class="text-warning mb-0">Projects Done</h5>
                                 <h1 class="mb-0" data-toggle="counter-up">12345</h1>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 wow zoomIn" data-wow-delay="0.6s">
-                        <div class="bg-primary shadow d-flex align-items-center justify-content-center p-4" style="height: 150px;">
+                        <div class="bg-warning shadow d-flex align-items-center justify-content-center p-4" style="height: 150px;">
                             <div class="bg-white d-flex align-items-center justify-content-center rounded mb-2" style="width: 60px; height: 60px;">
-                                <i class="fa fa-award text-primary"></i>
+                                <i class="fa fa-award text-warning"></i>
                             </div>
                             <div class="ps-4">
                                 <h5 class="text-white mb-0">Win Awards</h5>
